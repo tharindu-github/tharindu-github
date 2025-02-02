@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tharindu Nimesh</h1>
 <h3 align="center">2nd-year undergraduate | BSc in Management Information Systems (Special)</h3>
 
+---
+
 - 🚀 Passionate about web development & full-stack technologies
   
 - 🌱 I’m currently learning **React.js & UI/UX design**
