@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **tharinduxnimesh@gmail.com**
 
-- ⚡ Fun fact **Commit, push, pray.🙏**
+- ⚡ Fun fact **JavaScript is fun... until it isn't. 😭**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
